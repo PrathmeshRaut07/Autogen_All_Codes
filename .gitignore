@@ -1,2 +1,9 @@
 venv
 pyvenv.cfg
+Autogen_Screen_Share_Assistant_Agent
+.env
+tmp
+pdf
+.cache
+OAI_CONFIG_LIST
+RAG_PDF.ipynb
